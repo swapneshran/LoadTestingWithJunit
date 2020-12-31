@@ -1,0 +1,1012 @@
+2020-12-31 14:38:25,784 [main] WARN  org.jsmart.zerocode.parallel.ExecutorServiceRunner - 
+LOAD:
+-----------------------------------
+   ### numberOfThreads : 3
+   ### rampUpPeriodInSeconds : 6
+   ### loopCount : 1
+-----------------------------------
+
+2020-12-31 14:38:26,235 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - Waiting for the next test flight to adjust the overall ramp up time, waiting time in the transit now = 2000.0
+2020-12-31 14:38:28,282 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - main Executor - *Start... Time = 2020-12-31T14:38:28.264
+2020-12-31 14:38:28,286 [pool-2-thread-1] INFO  org.jsmart.zerocode.core.runner.parallel.LoadProcessor - pool-2-thread-1 Parallel Junit test- *Start. Time = 2020-12-31T14:38:28.286
+2020-12-31 14:38:28,287 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - main Executor - *Finished Time = 2020-12-31T14:38:28.287
+2020-12-31 14:38:28,288 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - Waiting for the next test flight to adjust the overall ramp up time, waiting time in the transit now = 2000.0
+2020-12-31 14:38:28,326 [pool-2-thread-1] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:38:29,760 [pool-2-thread-1] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:38:29,945 [pool-2-thread-1] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:38:29,998 [pool-2-thread-1] INFO  org.jsmart.zerocode.core.runner.ZeroCodeUnitRunner - System property zerocode.junit=null
+2020-12-31 14:38:30,007 [pool-2-thread-1] ERROR org.jsmart.zerocode.core.utils.SmartUtils - Exception occurred while parsing the 'Test Scenario' file:{}. Check if it is present n in correct formatload_tests/get/get_screening_details_by_custid.json
+2020-12-31 14:38:30,012 [pool-2-thread-1] INFO  org.jsmart.zerocode.core.engine.listener.ZeroCodeTestReportListener - #ZeroCode: Test run completed for this runner. Generating test reports and charts. 
+* For more examples and help on automated Kafka data stream testing and Load testing visit https://zerocode.io
+2020-12-31 14:38:30,014 [pool-2-thread-1] INFO  org.jsmart.zerocode.core.runner.parallel.LoadProcessor - pool-2-thread-1 Parallel Junit test- *  End. Time = 2020-12-31T14:38:30.014
+2020-12-31 14:38:30,293 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - main Executor - *Start... Time = 2020-12-31T14:38:30.292
+2020-12-31 14:38:30,293 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - main Executor - *Finished Time = 2020-12-31T14:38:30.293
+2020-12-31 14:38:30,293 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - Waiting for the next test flight to adjust the overall ramp up time, waiting time in the transit now = 2000.0
+2020-12-31 14:38:30,294 [pool-2-thread-2] INFO  org.jsmart.zerocode.core.runner.parallel.LoadProcessor - pool-2-thread-2 Parallel Junit test- *Start. Time = 2020-12-31T14:38:30.293
+2020-12-31 14:38:30,295 [pool-2-thread-2] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:38:30,347 [pool-2-thread-2] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:38:30,390 [pool-2-thread-2] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:38:30,441 [pool-2-thread-2] INFO  org.jsmart.zerocode.core.runner.ZeroCodeUnitRunner - System property zerocode.junit=null
+2020-12-31 14:38:30,442 [pool-2-thread-2] ERROR org.jsmart.zerocode.core.utils.SmartUtils - Exception occurred while parsing the 'Test Scenario' file:{}. Check if it is present n in correct formatload_tests/get/get_screening_details_by_custid.json
+2020-12-31 14:38:30,444 [pool-2-thread-2] INFO  org.jsmart.zerocode.core.engine.listener.ZeroCodeTestReportListener - #ZeroCode: Test run completed for this runner. Generating test reports and charts. 
+* For more examples and help on automated Kafka data stream testing and Load testing visit https://zerocode.io
+2020-12-31 14:38:30,445 [pool-2-thread-2] INFO  org.jsmart.zerocode.core.runner.parallel.LoadProcessor - pool-2-thread-2 Parallel Junit test- *  End. Time = 2020-12-31T14:38:30.445
+2020-12-31 14:38:32,299 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - main Executor - *Start... Time = 2020-12-31T14:38:32.299
+2020-12-31 14:38:32,301 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - main Executor - *Finished Time = 2020-12-31T14:38:32.301
+2020-12-31 14:38:32,301 [pool-2-thread-3] INFO  org.jsmart.zerocode.core.runner.parallel.LoadProcessor - pool-2-thread-3 Parallel Junit test- *Start. Time = 2020-12-31T14:38:32.301
+2020-12-31 14:38:32,302 [pool-2-thread-3] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:38:32,390 [pool-2-thread-3] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:38:32,455 [pool-2-thread-3] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:38:32,517 [pool-2-thread-3] INFO  org.jsmart.zerocode.core.runner.ZeroCodeUnitRunner - System property zerocode.junit=null
+2020-12-31 14:38:32,525 [pool-2-thread-3] ERROR org.jsmart.zerocode.core.utils.SmartUtils - Exception occurred while parsing the 'Test Scenario' file:{}. Check if it is present n in correct formatload_tests/get/get_screening_details_by_custid.json
+2020-12-31 14:38:32,527 [pool-2-thread-3] INFO  org.jsmart.zerocode.core.engine.listener.ZeroCodeTestReportListener - #ZeroCode: Test run completed for this runner. Generating test reports and charts. 
+* For more examples and help on automated Kafka data stream testing and Load testing visit https://zerocode.io
+2020-12-31 14:38:32,527 [pool-2-thread-3] INFO  org.jsmart.zerocode.core.runner.parallel.LoadProcessor - pool-2-thread-3 Parallel Junit test- *  End. Time = 2020-12-31T14:38:32.527
+2020-12-31 14:38:32,528 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - **Finished executing all threads**
+2020-12-31 14:38:32,528 [main] WARN  org.jsmart.zerocode.core.runner.parallel.LoadProcessor - 
+-----------------------------------------------------------------------------------------------------------
+==>> Completed this load-run!
+==>> Number of load tests ran : 3
+==>> View the detailed performance results in the 'target/zerocode-junit-granular-report.csv' folder.
+-----------------------------------------------------------------------------------------------------------
+
+
+2020-12-31 14:38:32,528 [main] ERROR org.jsmart.zerocode.core.runner.parallel.ZeroCodeLoadRunner - com.swappy.loadtest.LoadGetTest.testGetScreeningLocalAndGlobal Failed. See target/logs -or- junit granular failure report(csv) -or- fuzzy search and filter report(html) for details
+2020-12-31 14:39:14,824 [main] WARN  org.jsmart.zerocode.parallel.ExecutorServiceRunner - 
+LOAD:
+-----------------------------------
+   ### numberOfThreads : 3
+   ### rampUpPeriodInSeconds : 6
+   ### loopCount : 1
+-----------------------------------
+
+2020-12-31 14:39:15,057 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - Waiting for the next test flight to adjust the overall ramp up time, waiting time in the transit now = 2000.0
+2020-12-31 14:39:17,103 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - main Executor - *Start... Time = 2020-12-31T14:39:17.089
+2020-12-31 14:39:17,106 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - main Executor - *Finished Time = 2020-12-31T14:39:17.106
+2020-12-31 14:39:17,106 [pool-2-thread-1] INFO  org.jsmart.zerocode.core.runner.parallel.LoadProcessor - pool-2-thread-1 Parallel Junit test- *Start. Time = 2020-12-31T14:39:17.106
+2020-12-31 14:39:17,106 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - Waiting for the next test flight to adjust the overall ramp up time, waiting time in the transit now = 2000.0
+2020-12-31 14:39:17,131 [pool-2-thread-1] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:39:19,109 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - main Executor - *Start... Time = 2020-12-31T14:39:19.109
+2020-12-31 14:39:19,111 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - main Executor - *Finished Time = 2020-12-31T14:39:19.111
+2020-12-31 14:39:19,111 [pool-2-thread-2] INFO  org.jsmart.zerocode.core.runner.parallel.LoadProcessor - pool-2-thread-2 Parallel Junit test- *Start. Time = 2020-12-31T14:39:19.111
+2020-12-31 14:39:19,111 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - Waiting for the next test flight to adjust the overall ramp up time, waiting time in the transit now = 2000.0
+2020-12-31 14:39:19,112 [pool-2-thread-2] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:39:19,305 [pool-2-thread-2] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:39:19,305 [pool-2-thread-1] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:39:19,564 [pool-2-thread-2] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:39:19,568 [pool-2-thread-1] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:39:19,612 [pool-2-thread-1] INFO  org.jsmart.zerocode.core.runner.ZeroCodeUnitRunner - System property zerocode.junit=null
+2020-12-31 14:39:19,623 [pool-2-thread-2] INFO  org.jsmart.zerocode.core.runner.ZeroCodeUnitRunner - System property zerocode.junit=null
+2020-12-31 14:39:19,625 [pool-2-thread-1] ERROR org.jsmart.zerocode.core.utils.SmartUtils - Exception occurred while parsing the 'Test Scenario' file:{}. Check if it is present n in correct formatload_tests/get/get_screening_details_by_custid.json
+2020-12-31 14:39:19,625 [pool-2-thread-2] ERROR org.jsmart.zerocode.core.utils.SmartUtils - Exception occurred while parsing the 'Test Scenario' file:{}. Check if it is present n in correct formatload_tests/get/get_screening_details_by_custid.json
+2020-12-31 14:39:19,636 [pool-2-thread-1] INFO  org.jsmart.zerocode.core.engine.listener.ZeroCodeTestReportListener - #ZeroCode: Test run completed for this runner. Generating test reports and charts. 
+* For more examples and help on automated Kafka data stream testing and Load testing visit https://zerocode.io
+2020-12-31 14:39:19,636 [pool-2-thread-2] INFO  org.jsmart.zerocode.core.engine.listener.ZeroCodeTestReportListener - #ZeroCode: Test run completed for this runner. Generating test reports and charts. 
+* For more examples and help on automated Kafka data stream testing and Load testing visit https://zerocode.io
+2020-12-31 14:39:19,639 [pool-2-thread-2] INFO  org.jsmart.zerocode.core.runner.parallel.LoadProcessor - pool-2-thread-2 Parallel Junit test- *  End. Time = 2020-12-31T14:39:19.639
+2020-12-31 14:39:19,639 [pool-2-thread-1] INFO  org.jsmart.zerocode.core.runner.parallel.LoadProcessor - pool-2-thread-1 Parallel Junit test- *  End. Time = 2020-12-31T14:39:19.639
+2020-12-31 14:39:21,115 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - main Executor - *Start... Time = 2020-12-31T14:39:21.115
+2020-12-31 14:39:21,116 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - main Executor - *Finished Time = 2020-12-31T14:39:21.115
+2020-12-31 14:39:21,116 [pool-2-thread-3] INFO  org.jsmart.zerocode.core.runner.parallel.LoadProcessor - pool-2-thread-3 Parallel Junit test- *Start. Time = 2020-12-31T14:39:21.116
+2020-12-31 14:39:21,117 [pool-2-thread-3] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:39:21,152 [pool-2-thread-3] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:39:21,178 [pool-2-thread-3] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:39:21,204 [pool-2-thread-3] INFO  org.jsmart.zerocode.core.runner.ZeroCodeUnitRunner - System property zerocode.junit=null
+2020-12-31 14:39:21,205 [pool-2-thread-3] ERROR org.jsmart.zerocode.core.utils.SmartUtils - Exception occurred while parsing the 'Test Scenario' file:{}. Check if it is present n in correct formatload_tests/get/get_screening_details_by_custid.json
+2020-12-31 14:39:21,207 [pool-2-thread-3] INFO  org.jsmart.zerocode.core.engine.listener.ZeroCodeTestReportListener - #ZeroCode: Test run completed for this runner. Generating test reports and charts. 
+* For more examples and help on automated Kafka data stream testing and Load testing visit https://zerocode.io
+2020-12-31 14:39:21,208 [pool-2-thread-3] INFO  org.jsmart.zerocode.core.runner.parallel.LoadProcessor - pool-2-thread-3 Parallel Junit test- *  End. Time = 2020-12-31T14:39:21.208
+2020-12-31 14:39:21,209 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - **Finished executing all threads**
+2020-12-31 14:39:21,211 [main] WARN  org.jsmart.zerocode.core.runner.parallel.LoadProcessor - 
+-----------------------------------------------------------------------------------------------------------
+==>> Completed this load-run!
+==>> Number of load tests ran : 3
+==>> View the detailed performance results in the 'target/zerocode-junit-granular-report.csv' folder.
+-----------------------------------------------------------------------------------------------------------
+
+
+2020-12-31 14:39:21,211 [main] ERROR org.jsmart.zerocode.core.runner.parallel.ZeroCodeLoadRunner - com.swappy.loadtest.LoadGetTest.testGetScreeningLocalAndGlobal Failed. See target/logs -or- junit granular failure report(csv) -or- fuzzy search and filter report(html) for details
+2020-12-31 14:42:08,289 [main] WARN  org.jsmart.zerocode.parallel.ExecutorServiceRunner - 
+LOAD:
+-----------------------------------
+   ### numberOfThreads : 3
+   ### rampUpPeriodInSeconds : 6
+   ### loopCount : 1
+-----------------------------------
+
+2020-12-31 14:42:08,703 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - Waiting for the next test flight to adjust the overall ramp up time, waiting time in the transit now = 2000.0
+2020-12-31 14:42:10,753 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - main Executor - *Start... Time = 2020-12-31T14:42:10.731
+2020-12-31 14:42:10,757 [pool-2-thread-1] INFO  org.jsmart.zerocode.core.runner.parallel.LoadProcessor - pool-2-thread-1 Parallel Junit test- *Start. Time = 2020-12-31T14:42:10.757
+2020-12-31 14:42:10,757 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - main Executor - *Finished Time = 2020-12-31T14:42:10.757
+2020-12-31 14:42:10,759 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - Waiting for the next test flight to adjust the overall ramp up time, waiting time in the transit now = 2000.0
+2020-12-31 14:42:10,784 [pool-2-thread-1] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:42:12,589 [pool-2-thread-1] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:42:12,766 [pool-2-thread-1] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:42:12,767 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - main Executor - *Start... Time = 2020-12-31T14:42:12.767
+2020-12-31 14:42:12,768 [pool-2-thread-2] INFO  org.jsmart.zerocode.core.runner.parallel.LoadProcessor - pool-2-thread-2 Parallel Junit test- *Start. Time = 2020-12-31T14:42:12.768
+2020-12-31 14:42:12,768 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - main Executor - *Finished Time = 2020-12-31T14:42:12.768
+2020-12-31 14:42:12,768 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - Waiting for the next test flight to adjust the overall ramp up time, waiting time in the transit now = 2000.0
+2020-12-31 14:42:12,769 [pool-2-thread-2] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:42:12,836 [pool-2-thread-2] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:42:12,872 [pool-2-thread-2] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:42:12,904 [pool-2-thread-1] INFO  org.jsmart.zerocode.core.runner.ZeroCodeUnitRunner - System property zerocode.junit=null
+2020-12-31 14:42:12,906 [pool-2-thread-2] INFO  org.jsmart.zerocode.core.runner.ZeroCodeUnitRunner - System property zerocode.junit=null
+2020-12-31 14:42:13,196 [pool-2-thread-2] INFO  org.jsmart.zerocode.core.runner.ZeroCodeMultiStepsScenarioRunnerImpl - 
+-------------------------- BDD: Scenario:Screening API- Get Screening by customerId test -------------------------
+
+2020-12-31 14:42:13,197 [pool-2-thread-2] INFO  org.jsmart.zerocode.core.runner.ZeroCodeMultiStepsScenarioRunnerImpl - 
+-------------------------------------------------------------------------
+     Executing Scenario Count No. or parameter No. or Row No. | 0 | 
+-------------------------------------------------------------------------
+2020-12-31 14:42:13,196 [pool-2-thread-1] INFO  org.jsmart.zerocode.core.runner.ZeroCodeMultiStepsScenarioRunnerImpl - 
+-------------------------- BDD: Scenario:Screening API- Get Screening by customerId test -------------------------
+
+2020-12-31 14:42:13,199 [pool-2-thread-1] INFO  org.jsmart.zerocode.core.runner.ZeroCodeMultiStepsScenarioRunnerImpl - 
+-------------------------------------------------------------------------
+     Executing Scenario Count No. or parameter No. or Row No. | 0 | 
+-------------------------------------------------------------------------
+2020-12-31 14:42:13,459 [pool-2-thread-2] INFO  org.jsmart.zerocode.core.httpclient.ssl.SslTrustHttpClient - ###Used SSL Enabled Http Client for http/https/TLS connections
+2020-12-31 14:42:13,460 [pool-2-thread-1] INFO  org.jsmart.zerocode.core.httpclient.ssl.SslTrustHttpClient - ###Used SSL Enabled Http Client for http/https/TLS connections
+2020-12-31 14:42:14,774 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - main Executor - *Start... Time = 2020-12-31T14:42:14.774
+2020-12-31 14:42:14,774 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - main Executor - *Finished Time = 2020-12-31T14:42:14.774
+2020-12-31 14:42:14,775 [pool-2-thread-3] INFO  org.jsmart.zerocode.core.runner.parallel.LoadProcessor - pool-2-thread-3 Parallel Junit test- *Start. Time = 2020-12-31T14:42:14.775
+2020-12-31 14:42:14,777 [pool-2-thread-3] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:42:14,810 [pool-2-thread-3] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:42:14,851 [pool-2-thread-3] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:42:14,898 [pool-2-thread-3] INFO  org.jsmart.zerocode.core.runner.ZeroCodeUnitRunner - System property zerocode.junit=null
+2020-12-31 14:42:14,926 [pool-2-thread-3] INFO  org.jsmart.zerocode.core.runner.ZeroCodeMultiStepsScenarioRunnerImpl - 
+-------------------------- BDD: Scenario:Screening API- Get Screening by customerId test -------------------------
+
+2020-12-31 14:42:14,927 [pool-2-thread-3] INFO  org.jsmart.zerocode.core.runner.ZeroCodeMultiStepsScenarioRunnerImpl - 
+-------------------------------------------------------------------------
+     Executing Scenario Count No. or parameter No. or Row No. | 0 | 
+-------------------------------------------------------------------------
+2020-12-31 14:42:14,947 [pool-2-thread-3] INFO  org.jsmart.zerocode.core.httpclient.ssl.SslTrustHttpClient - ###Used SSL Enabled Http Client for http/https/TLS connections
+2020-12-31 14:42:14,996 [pool-2-thread-1] INFO  org.jsmart.zerocode.core.engine.validators.ZeroCodeValidatorImpl - Comparing results via LENIENT matchers
+2020-12-31 14:42:14,996 [pool-2-thread-2] INFO  org.jsmart.zerocode.core.engine.validators.ZeroCodeValidatorImpl - Comparing results via LENIENT matchers
+2020-12-31 14:42:15,026 [pool-2-thread-2] INFO  org.jsmart.zerocode.core.runner.StepNotificationHandler - 
+***Step PASSED - Scenario:Screening API- Get Screening by customerId test -> get_screening_details
+2020-12-31 14:42:15,036 [pool-2-thread-2] WARN  org.jsmart.zerocode.core.runner.ZeroCodeMultiStepsScenarioRunnerImpl - 
+--------- TEST-STEP-CORRELATION-ID: 12b0b450-756e-48da-8a55-7ee146a5e3a4 ---------
+*requestTimeStamp:2020-12-31T14:42:13.288
+step:get_screening_details
+id:null
+url:https://httpbin.org/status/200
+method:GET
+request:
+{ } 
+--------- TEST-STEP-CORRELATION-ID: 12b0b450-756e-48da-8a55-7ee146a5e3a4 ---------
+Response:
+{
+  "status" : 200,
+  "headers" : {
+    "Date" : [ "Thu, 31 Dec 2020 14:42:14 GMT" ],
+    "Access-Control-Allow-Origin" : [ "*" ],
+    "Content-Length" : [ "0" ],
+    "Server" : [ "gunicorn/19.9.0" ],
+    "Access-Control-Allow-Credentials" : [ "true" ],
+    "Content-Type" : [ "text/html; charset=utf-8" ],
+    "Connection" : [ "keep-alive" ]
+  }
+}
+*responseTimeStamp:2020-12-31T14:42:14.994 
+*Response delay:1706.0 milli-secs 
+---------> Expected Response: <----------
+{
+  "status" : 200
+} 
+ 
+-done-
+
+2020-12-31 14:42:15,049 [pool-2-thread-1] INFO  org.jsmart.zerocode.core.runner.StepNotificationHandler - 
+***Step PASSED - Scenario:Screening API- Get Screening by customerId test -> get_screening_details
+2020-12-31 14:42:15,111 [pool-2-thread-1] WARN  org.jsmart.zerocode.core.runner.ZeroCodeMultiStepsScenarioRunnerImpl - 
+--------- TEST-STEP-CORRELATION-ID: 120b1d22-2f99-4c2a-80f1-399470faec71 ---------
+*requestTimeStamp:2020-12-31T14:42:13.288
+step:get_screening_details
+id:null
+url:https://httpbin.org/status/200
+method:GET
+request:
+{ } 
+--------- TEST-STEP-CORRELATION-ID: 120b1d22-2f99-4c2a-80f1-399470faec71 ---------
+Response:
+{
+  "status" : 200,
+  "headers" : {
+    "Date" : [ "Thu, 31 Dec 2020 14:42:14 GMT" ],
+    "Access-Control-Allow-Origin" : [ "*" ],
+    "Content-Length" : [ "0" ],
+    "Server" : [ "gunicorn/19.9.0" ],
+    "Access-Control-Allow-Credentials" : [ "true" ],
+    "Content-Type" : [ "text/html; charset=utf-8" ],
+    "Connection" : [ "keep-alive" ]
+  }
+}
+*responseTimeStamp:2020-12-31T14:42:14.993 
+*Response delay:1705.0 milli-secs 
+---------> Expected Response: <----------
+{
+  "status" : 200
+} 
+ 
+-done-
+
+2020-12-31 14:42:15,260 [pool-2-thread-1] INFO  org.jsmart.zerocode.core.runner.ZeroCodeUnitRunner - 
+**FINISHED executing all Steps for [Screening API- Get Screening by customerId test] **.
+Steps were:[get_screening_details]
+2020-12-31 14:42:15,261 [pool-2-thread-1] INFO  org.jsmart.zerocode.core.engine.listener.ZeroCodeTestReportListener - #ZeroCode: Test run completed for this runner. Generating test reports and charts. 
+* For more examples and help on automated Kafka data stream testing and Load testing visit https://zerocode.io
+2020-12-31 14:42:15,269 [pool-2-thread-2] INFO  org.jsmart.zerocode.core.runner.ZeroCodeUnitRunner - 
+**FINISHED executing all Steps for [Screening API- Get Screening by customerId test] **.
+Steps were:[get_screening_details]
+2020-12-31 14:42:15,271 [pool-2-thread-2] INFO  org.jsmart.zerocode.core.engine.listener.ZeroCodeTestReportListener - #ZeroCode: Test run completed for this runner. Generating test reports and charts. 
+* For more examples and help on automated Kafka data stream testing and Load testing visit https://zerocode.io
+2020-12-31 14:42:15,450 [pool-2-thread-1] INFO  org.jsmart.zerocode.core.domain.builders.ExtentReportsFactory - Where were the tests fired? Ans: OS:Mac OS X, Architecture:x86_64, Java:1.8.0_141, Vendor:Oracle Corporation
+2020-12-31 14:42:15,450 [pool-2-thread-2] INFO  org.jsmart.zerocode.core.domain.builders.ExtentReportsFactory - Where were the tests fired? Ans: OS:Mac OS X, Architecture:x86_64, Java:1.8.0_141, Vendor:Oracle Corporation
+2020-12-31 14:42:15,573 [pool-2-thread-3] INFO  org.jsmart.zerocode.core.engine.validators.ZeroCodeValidatorImpl - Comparing results via LENIENT matchers
+2020-12-31 14:42:15,574 [pool-2-thread-3] INFO  org.jsmart.zerocode.core.runner.StepNotificationHandler - 
+***Step PASSED - Scenario:Screening API- Get Screening by customerId test -> get_screening_details
+2020-12-31 14:42:15,575 [pool-2-thread-3] WARN  org.jsmart.zerocode.core.runner.ZeroCodeMultiStepsScenarioRunnerImpl - 
+--------- TEST-STEP-CORRELATION-ID: 3b62cc04-f94d-419a-86e6-324a62ab4a36 ---------
+*requestTimeStamp:2020-12-31T14:42:14.943
+step:get_screening_details
+id:null
+url:https://httpbin.org/status/200
+method:GET
+request:
+{ } 
+--------- TEST-STEP-CORRELATION-ID: 3b62cc04-f94d-419a-86e6-324a62ab4a36 ---------
+Response:
+{
+  "status" : 200,
+  "headers" : {
+    "Date" : [ "Thu, 31 Dec 2020 14:42:15 GMT" ],
+    "Access-Control-Allow-Origin" : [ "*" ],
+    "Content-Length" : [ "0" ],
+    "Server" : [ "gunicorn/19.9.0" ],
+    "Access-Control-Allow-Credentials" : [ "true" ],
+    "Content-Type" : [ "text/html; charset=utf-8" ],
+    "Connection" : [ "keep-alive" ]
+  }
+}
+*responseTimeStamp:2020-12-31T14:42:15.572 
+*Response delay:629.0 milli-secs 
+---------> Expected Response: <----------
+{
+  "status" : 200
+} 
+ 
+-done-
+
+2020-12-31 14:42:15,690 [pool-2-thread-3] INFO  org.jsmart.zerocode.core.runner.ZeroCodeUnitRunner - 
+**FINISHED executing all Steps for [Screening API- Get Screening by customerId test] **.
+Steps were:[get_screening_details]
+2020-12-31 14:42:15,691 [pool-2-thread-3] INFO  org.jsmart.zerocode.core.engine.listener.ZeroCodeTestReportListener - #ZeroCode: Test run completed for this runner. Generating test reports and charts. 
+* For more examples and help on automated Kafka data stream testing and Load testing visit https://zerocode.io
+2020-12-31 14:42:15,707 [pool-2-thread-3] INFO  org.jsmart.zerocode.core.domain.builders.ExtentReportsFactory - Where were the tests fired? Ans: OS:Mac OS X, Architecture:x86_64, Java:1.8.0_141, Vendor:Oracle Corporation
+2020-12-31 14:42:17,503 [pool-2-thread-3] INFO  org.jsmart.zerocode.core.runner.parallel.LoadProcessor - pool-2-thread-3 Parallel Junit test- *  End. Time = 2020-12-31T14:42:17.502
+2020-12-31 14:42:18,233 [pool-2-thread-2] INFO  org.jsmart.zerocode.core.runner.parallel.LoadProcessor - pool-2-thread-2 Parallel Junit test- *  End. Time = 2020-12-31T14:42:18.233
+2020-12-31 14:42:18,429 [pool-2-thread-1] INFO  org.jsmart.zerocode.core.runner.parallel.LoadProcessor - pool-2-thread-1 Parallel Junit test- *  End. Time = 2020-12-31T14:42:18.429
+2020-12-31 14:42:18,433 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - **Finished executing all threads**
+2020-12-31 14:42:18,434 [main] WARN  org.jsmart.zerocode.core.runner.parallel.LoadProcessor - 
+-----------------------------------------------------------------------------------------------------------
+==>> Completed this load-run!
+==>> Number of load tests ran : 3
+==>> View the detailed performance results in the 'target/zerocode-junit-granular-report.csv' folder.
+-----------------------------------------------------------------------------------------------------------
+
+
+2020-12-31 14:43:27,645 [main] WARN  org.jsmart.zerocode.parallel.ExecutorServiceRunner - 
+LOAD:
+-----------------------------------
+   ### numberOfThreads : 12
+   ### rampUpPeriodInSeconds : 6
+   ### loopCount : 1
+-----------------------------------
+
+2020-12-31 14:43:27,883 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - Waiting for the next test flight to adjust the overall ramp up time, waiting time in the transit now = 500.0
+2020-12-31 14:43:28,440 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - main Executor - *Start... Time = 2020-12-31T14:43:28.425
+2020-12-31 14:43:28,442 [pool-2-thread-1] INFO  org.jsmart.zerocode.core.runner.parallel.LoadProcessor - pool-2-thread-1 Parallel Junit test- *Start. Time = 2020-12-31T14:43:28.442
+2020-12-31 14:43:28,443 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - main Executor - *Finished Time = 2020-12-31T14:43:28.443
+2020-12-31 14:43:28,448 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - Waiting for the next test flight to adjust the overall ramp up time, waiting time in the transit now = 500.0
+2020-12-31 14:43:28,467 [pool-2-thread-1] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:43:28,953 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - main Executor - *Start... Time = 2020-12-31T14:43:28.953
+2020-12-31 14:43:28,954 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - main Executor - *Finished Time = 2020-12-31T14:43:28.954
+2020-12-31 14:43:28,954 [pool-2-thread-2] INFO  org.jsmart.zerocode.core.runner.parallel.LoadProcessor - pool-2-thread-2 Parallel Junit test- *Start. Time = 2020-12-31T14:43:28.954
+2020-12-31 14:43:28,954 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - Waiting for the next test flight to adjust the overall ramp up time, waiting time in the transit now = 500.0
+2020-12-31 14:43:28,955 [pool-2-thread-2] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:43:29,460 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - main Executor - *Start... Time = 2020-12-31T14:43:29.459
+2020-12-31 14:43:29,460 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - main Executor - *Finished Time = 2020-12-31T14:43:29.460
+2020-12-31 14:43:29,460 [pool-2-thread-3] INFO  org.jsmart.zerocode.core.runner.parallel.LoadProcessor - pool-2-thread-3 Parallel Junit test- *Start. Time = 2020-12-31T14:43:29.460
+2020-12-31 14:43:29,460 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - Waiting for the next test flight to adjust the overall ramp up time, waiting time in the transit now = 500.0
+2020-12-31 14:43:29,461 [pool-2-thread-3] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:43:29,916 [pool-2-thread-3] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:43:29,919 [pool-2-thread-1] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:43:29,919 [pool-2-thread-2] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:43:29,965 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - main Executor - *Start... Time = 2020-12-31T14:43:29.965
+2020-12-31 14:43:29,966 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - main Executor - *Finished Time = 2020-12-31T14:43:29.966
+2020-12-31 14:43:29,966 [pool-2-thread-4] INFO  org.jsmart.zerocode.core.runner.parallel.LoadProcessor - pool-2-thread-4 Parallel Junit test- *Start. Time = 2020-12-31T14:43:29.966
+2020-12-31 14:43:29,966 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - Waiting for the next test flight to adjust the overall ramp up time, waiting time in the transit now = 500.0
+2020-12-31 14:43:29,967 [pool-2-thread-4] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:43:29,998 [pool-2-thread-4] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:43:30,138 [pool-2-thread-4] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:43:30,146 [pool-2-thread-2] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:43:30,174 [pool-2-thread-3] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:43:30,176 [pool-2-thread-1] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:43:30,239 [pool-2-thread-1] INFO  org.jsmart.zerocode.core.runner.ZeroCodeUnitRunner - System property zerocode.junit=null
+2020-12-31 14:43:30,242 [pool-2-thread-4] INFO  org.jsmart.zerocode.core.runner.ZeroCodeUnitRunner - System property zerocode.junit=null
+2020-12-31 14:43:30,271 [pool-2-thread-2] INFO  org.jsmart.zerocode.core.runner.ZeroCodeUnitRunner - System property zerocode.junit=null
+2020-12-31 14:43:30,324 [pool-2-thread-3] INFO  org.jsmart.zerocode.core.runner.ZeroCodeUnitRunner - System property zerocode.junit=null
+2020-12-31 14:43:30,472 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - main Executor - *Start... Time = 2020-12-31T14:43:30.471
+2020-12-31 14:43:30,472 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - main Executor - *Finished Time = 2020-12-31T14:43:30.472
+2020-12-31 14:43:30,473 [pool-2-thread-5] INFO  org.jsmart.zerocode.core.runner.parallel.LoadProcessor - pool-2-thread-5 Parallel Junit test- *Start. Time = 2020-12-31T14:43:30.473
+2020-12-31 14:43:30,473 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - Waiting for the next test flight to adjust the overall ramp up time, waiting time in the transit now = 500.0
+2020-12-31 14:43:30,473 [pool-2-thread-5] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:43:30,505 [pool-2-thread-5] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:43:30,611 [pool-2-thread-5] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:43:30,663 [pool-2-thread-5] INFO  org.jsmart.zerocode.core.runner.ZeroCodeUnitRunner - System property zerocode.junit=null
+2020-12-31 14:43:30,962 [pool-2-thread-3] INFO  org.jsmart.zerocode.core.runner.ZeroCodeMultiStepsScenarioRunnerImpl - 
+-------------------------- BDD: Scenario:Screening API- Get Screening by customerId test -------------------------
+
+2020-12-31 14:43:30,963 [pool-2-thread-1] INFO  org.jsmart.zerocode.core.runner.ZeroCodeMultiStepsScenarioRunnerImpl - 
+-------------------------- BDD: Scenario:Screening API- Get Screening by customerId test -------------------------
+
+2020-12-31 14:43:30,962 [pool-2-thread-2] INFO  org.jsmart.zerocode.core.runner.ZeroCodeMultiStepsScenarioRunnerImpl - 
+-------------------------- BDD: Scenario:Screening API- Get Screening by customerId test -------------------------
+
+2020-12-31 14:43:30,964 [pool-2-thread-3] INFO  org.jsmart.zerocode.core.runner.ZeroCodeMultiStepsScenarioRunnerImpl - 
+-------------------------------------------------------------------------
+     Executing Scenario Count No. or parameter No. or Row No. | 0 | 
+-------------------------------------------------------------------------
+2020-12-31 14:43:30,965 [pool-2-thread-1] INFO  org.jsmart.zerocode.core.runner.ZeroCodeMultiStepsScenarioRunnerImpl - 
+-------------------------------------------------------------------------
+     Executing Scenario Count No. or parameter No. or Row No. | 0 | 
+-------------------------------------------------------------------------
+2020-12-31 14:43:30,965 [pool-2-thread-2] INFO  org.jsmart.zerocode.core.runner.ZeroCodeMultiStepsScenarioRunnerImpl - 
+-------------------------------------------------------------------------
+     Executing Scenario Count No. or parameter No. or Row No. | 0 | 
+-------------------------------------------------------------------------
+2020-12-31 14:43:30,967 [pool-2-thread-5] INFO  org.jsmart.zerocode.core.runner.ZeroCodeMultiStepsScenarioRunnerImpl - 
+-------------------------- BDD: Scenario:Screening API- Get Screening by customerId test -------------------------
+
+2020-12-31 14:43:30,969 [pool-2-thread-5] INFO  org.jsmart.zerocode.core.runner.ZeroCodeMultiStepsScenarioRunnerImpl - 
+-------------------------------------------------------------------------
+     Executing Scenario Count No. or parameter No. or Row No. | 0 | 
+-------------------------------------------------------------------------
+2020-12-31 14:43:30,977 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - main Executor - *Start... Time = 2020-12-31T14:43:30.977
+2020-12-31 14:43:30,978 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - main Executor - *Finished Time = 2020-12-31T14:43:30.978
+2020-12-31 14:43:30,978 [pool-2-thread-6] INFO  org.jsmart.zerocode.core.runner.parallel.LoadProcessor - pool-2-thread-6 Parallel Junit test- *Start. Time = 2020-12-31T14:43:30.978
+2020-12-31 14:43:30,978 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - Waiting for the next test flight to adjust the overall ramp up time, waiting time in the transit now = 500.0
+2020-12-31 14:43:30,979 [pool-2-thread-6] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:43:30,980 [pool-2-thread-4] INFO  org.jsmart.zerocode.core.runner.ZeroCodeMultiStepsScenarioRunnerImpl - 
+-------------------------- BDD: Scenario:Screening API- Get Screening by customerId test -------------------------
+
+2020-12-31 14:43:30,981 [pool-2-thread-4] INFO  org.jsmart.zerocode.core.runner.ZeroCodeMultiStepsScenarioRunnerImpl - 
+-------------------------------------------------------------------------
+     Executing Scenario Count No. or parameter No. or Row No. | 0 | 
+-------------------------------------------------------------------------
+2020-12-31 14:43:31,020 [pool-2-thread-6] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:43:31,046 [pool-2-thread-6] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:43:31,073 [pool-2-thread-6] INFO  org.jsmart.zerocode.core.runner.ZeroCodeUnitRunner - System property zerocode.junit=null
+2020-12-31 14:43:31,089 [pool-2-thread-6] INFO  org.jsmart.zerocode.core.runner.ZeroCodeMultiStepsScenarioRunnerImpl - 
+-------------------------- BDD: Scenario:Screening API- Get Screening by customerId test -------------------------
+
+2020-12-31 14:43:31,090 [pool-2-thread-6] INFO  org.jsmart.zerocode.core.runner.ZeroCodeMultiStepsScenarioRunnerImpl - 
+-------------------------------------------------------------------------
+     Executing Scenario Count No. or parameter No. or Row No. | 0 | 
+-------------------------------------------------------------------------
+2020-12-31 14:43:31,323 [pool-2-thread-4] INFO  org.jsmart.zerocode.core.httpclient.ssl.SslTrustHttpClient - ###Used SSL Enabled Http Client for http/https/TLS connections
+2020-12-31 14:43:31,324 [pool-2-thread-5] INFO  org.jsmart.zerocode.core.httpclient.ssl.SslTrustHttpClient - ###Used SSL Enabled Http Client for http/https/TLS connections
+2020-12-31 14:43:31,323 [pool-2-thread-6] INFO  org.jsmart.zerocode.core.httpclient.ssl.SslTrustHttpClient - ###Used SSL Enabled Http Client for http/https/TLS connections
+2020-12-31 14:43:31,329 [pool-2-thread-3] INFO  org.jsmart.zerocode.core.httpclient.ssl.SslTrustHttpClient - ###Used SSL Enabled Http Client for http/https/TLS connections
+2020-12-31 14:43:31,330 [pool-2-thread-1] INFO  org.jsmart.zerocode.core.httpclient.ssl.SslTrustHttpClient - ###Used SSL Enabled Http Client for http/https/TLS connections
+2020-12-31 14:43:31,330 [pool-2-thread-2] INFO  org.jsmart.zerocode.core.httpclient.ssl.SslTrustHttpClient - ###Used SSL Enabled Http Client for http/https/TLS connections
+2020-12-31 14:43:31,483 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - main Executor - *Start... Time = 2020-12-31T14:43:31.483
+2020-12-31 14:43:31,484 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - main Executor - *Finished Time = 2020-12-31T14:43:31.484
+2020-12-31 14:43:31,484 [pool-2-thread-7] INFO  org.jsmart.zerocode.core.runner.parallel.LoadProcessor - pool-2-thread-7 Parallel Junit test- *Start. Time = 2020-12-31T14:43:31.484
+2020-12-31 14:43:31,484 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - Waiting for the next test flight to adjust the overall ramp up time, waiting time in the transit now = 500.0
+2020-12-31 14:43:31,485 [pool-2-thread-7] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:43:31,517 [pool-2-thread-7] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:43:31,562 [pool-2-thread-7] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:43:31,644 [pool-2-thread-7] INFO  org.jsmart.zerocode.core.runner.ZeroCodeUnitRunner - System property zerocode.junit=null
+2020-12-31 14:43:31,686 [pool-2-thread-7] INFO  org.jsmart.zerocode.core.runner.ZeroCodeMultiStepsScenarioRunnerImpl - 
+-------------------------- BDD: Scenario:Screening API- Get Screening by customerId test -------------------------
+
+2020-12-31 14:43:31,686 [pool-2-thread-7] INFO  org.jsmart.zerocode.core.runner.ZeroCodeMultiStepsScenarioRunnerImpl - 
+-------------------------------------------------------------------------
+     Executing Scenario Count No. or parameter No. or Row No. | 0 | 
+-------------------------------------------------------------------------
+2020-12-31 14:43:31,695 [pool-2-thread-7] INFO  org.jsmart.zerocode.core.httpclient.ssl.SslTrustHttpClient - ###Used SSL Enabled Http Client for http/https/TLS connections
+2020-12-31 14:43:31,988 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - main Executor - *Start... Time = 2020-12-31T14:43:31.988
+2020-12-31 14:43:31,989 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - main Executor - *Finished Time = 2020-12-31T14:43:31.989
+2020-12-31 14:43:31,989 [pool-2-thread-8] INFO  org.jsmart.zerocode.core.runner.parallel.LoadProcessor - pool-2-thread-8 Parallel Junit test- *Start. Time = 2020-12-31T14:43:31.989
+2020-12-31 14:43:31,989 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - Waiting for the next test flight to adjust the overall ramp up time, waiting time in the transit now = 500.0
+2020-12-31 14:43:31,990 [pool-2-thread-8] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:43:32,025 [pool-2-thread-8] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:43:32,047 [pool-2-thread-8] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:43:32,066 [pool-2-thread-8] INFO  org.jsmart.zerocode.core.runner.ZeroCodeUnitRunner - System property zerocode.junit=null
+2020-12-31 14:43:32,078 [pool-2-thread-8] INFO  org.jsmart.zerocode.core.runner.ZeroCodeMultiStepsScenarioRunnerImpl - 
+-------------------------- BDD: Scenario:Screening API- Get Screening by customerId test -------------------------
+
+2020-12-31 14:43:32,078 [pool-2-thread-8] INFO  org.jsmart.zerocode.core.runner.ZeroCodeMultiStepsScenarioRunnerImpl - 
+-------------------------------------------------------------------------
+     Executing Scenario Count No. or parameter No. or Row No. | 0 | 
+-------------------------------------------------------------------------
+2020-12-31 14:43:32,085 [pool-2-thread-8] INFO  org.jsmart.zerocode.core.httpclient.ssl.SslTrustHttpClient - ###Used SSL Enabled Http Client for http/https/TLS connections
+2020-12-31 14:43:32,493 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - main Executor - *Start... Time = 2020-12-31T14:43:32.493
+2020-12-31 14:43:32,494 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - main Executor - *Finished Time = 2020-12-31T14:43:32.494
+2020-12-31 14:43:32,494 [pool-2-thread-9] INFO  org.jsmart.zerocode.core.runner.parallel.LoadProcessor - pool-2-thread-9 Parallel Junit test- *Start. Time = 2020-12-31T14:43:32.494
+2020-12-31 14:43:32,494 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - Waiting for the next test flight to adjust the overall ramp up time, waiting time in the transit now = 500.0
+2020-12-31 14:43:32,495 [pool-2-thread-9] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:43:32,517 [pool-2-thread-9] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:43:32,550 [pool-2-thread-9] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:43:32,572 [pool-2-thread-9] INFO  org.jsmart.zerocode.core.runner.ZeroCodeUnitRunner - System property zerocode.junit=null
+2020-12-31 14:43:32,585 [pool-2-thread-9] INFO  org.jsmart.zerocode.core.runner.ZeroCodeMultiStepsScenarioRunnerImpl - 
+-------------------------- BDD: Scenario:Screening API- Get Screening by customerId test -------------------------
+
+2020-12-31 14:43:32,585 [pool-2-thread-9] INFO  org.jsmart.zerocode.core.runner.ZeroCodeMultiStepsScenarioRunnerImpl - 
+-------------------------------------------------------------------------
+     Executing Scenario Count No. or parameter No. or Row No. | 0 | 
+-------------------------------------------------------------------------
+2020-12-31 14:43:32,594 [pool-2-thread-9] INFO  org.jsmart.zerocode.core.httpclient.ssl.SslTrustHttpClient - ###Used SSL Enabled Http Client for http/https/TLS connections
+2020-12-31 14:43:32,997 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - main Executor - *Start... Time = 2020-12-31T14:43:32.997
+2020-12-31 14:43:32,998 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - main Executor - *Finished Time = 2020-12-31T14:43:32.998
+2020-12-31 14:43:32,998 [pool-2-thread-10] INFO  org.jsmart.zerocode.core.runner.parallel.LoadProcessor - pool-2-thread-10 Parallel Junit test- *Start. Time = 2020-12-31T14:43:32.998
+2020-12-31 14:43:32,998 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - Waiting for the next test flight to adjust the overall ramp up time, waiting time in the transit now = 500.0
+2020-12-31 14:43:32,999 [pool-2-thread-10] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:43:33,034 [pool-2-thread-10] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:43:33,081 [pool-2-thread-10] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:43:33,114 [pool-2-thread-10] INFO  org.jsmart.zerocode.core.runner.ZeroCodeUnitRunner - System property zerocode.junit=null
+2020-12-31 14:43:33,130 [pool-2-thread-10] INFO  org.jsmart.zerocode.core.runner.ZeroCodeMultiStepsScenarioRunnerImpl - 
+-------------------------- BDD: Scenario:Screening API- Get Screening by customerId test -------------------------
+
+2020-12-31 14:43:33,131 [pool-2-thread-10] INFO  org.jsmart.zerocode.core.runner.ZeroCodeMultiStepsScenarioRunnerImpl - 
+-------------------------------------------------------------------------
+     Executing Scenario Count No. or parameter No. or Row No. | 0 | 
+-------------------------------------------------------------------------
+2020-12-31 14:43:33,144 [pool-2-thread-10] INFO  org.jsmart.zerocode.core.httpclient.ssl.SslTrustHttpClient - ###Used SSL Enabled Http Client for http/https/TLS connections
+2020-12-31 14:43:33,502 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - main Executor - *Start... Time = 2020-12-31T14:43:33.502
+2020-12-31 14:43:33,503 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - main Executor - *Finished Time = 2020-12-31T14:43:33.503
+2020-12-31 14:43:33,503 [pool-2-thread-11] INFO  org.jsmart.zerocode.core.runner.parallel.LoadProcessor - pool-2-thread-11 Parallel Junit test- *Start. Time = 2020-12-31T14:43:33.503
+2020-12-31 14:43:33,503 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - Waiting for the next test flight to adjust the overall ramp up time, waiting time in the transit now = 500.0
+2020-12-31 14:43:33,504 [pool-2-thread-11] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:43:33,521 [pool-2-thread-11] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:43:33,542 [pool-2-thread-11] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:43:33,571 [pool-2-thread-11] INFO  org.jsmart.zerocode.core.runner.ZeroCodeUnitRunner - System property zerocode.junit=null
+2020-12-31 14:43:33,596 [pool-2-thread-9] INFO  org.jsmart.zerocode.core.engine.validators.ZeroCodeValidatorImpl - Comparing results via LENIENT matchers
+2020-12-31 14:43:33,597 [pool-2-thread-6] INFO  org.jsmart.zerocode.core.engine.validators.ZeroCodeValidatorImpl - Comparing results via LENIENT matchers
+2020-12-31 14:43:33,600 [pool-2-thread-4] INFO  org.jsmart.zerocode.core.engine.validators.ZeroCodeValidatorImpl - Comparing results via LENIENT matchers
+2020-12-31 14:43:33,600 [pool-2-thread-5] INFO  org.jsmart.zerocode.core.engine.validators.ZeroCodeValidatorImpl - Comparing results via LENIENT matchers
+2020-12-31 14:43:33,600 [pool-2-thread-2] INFO  org.jsmart.zerocode.core.engine.validators.ZeroCodeValidatorImpl - Comparing results via LENIENT matchers
+2020-12-31 14:43:33,602 [pool-2-thread-7] INFO  org.jsmart.zerocode.core.engine.validators.ZeroCodeValidatorImpl - Comparing results via LENIENT matchers
+2020-12-31 14:43:33,602 [pool-2-thread-3] INFO  org.jsmart.zerocode.core.engine.validators.ZeroCodeValidatorImpl - Comparing results via LENIENT matchers
+2020-12-31 14:43:33,602 [pool-2-thread-8] INFO  org.jsmart.zerocode.core.engine.validators.ZeroCodeValidatorImpl - Comparing results via LENIENT matchers
+2020-12-31 14:43:33,603 [pool-2-thread-1] INFO  org.jsmart.zerocode.core.engine.validators.ZeroCodeValidatorImpl - Comparing results via LENIENT matchers
+2020-12-31 14:43:33,609 [pool-2-thread-11] INFO  org.jsmart.zerocode.core.runner.ZeroCodeMultiStepsScenarioRunnerImpl - 
+-------------------------- BDD: Scenario:Screening API- Get Screening by customerId test -------------------------
+
+2020-12-31 14:43:33,609 [pool-2-thread-11] INFO  org.jsmart.zerocode.core.runner.ZeroCodeMultiStepsScenarioRunnerImpl - 
+-------------------------------------------------------------------------
+     Executing Scenario Count No. or parameter No. or Row No. | 0 | 
+-------------------------------------------------------------------------
+2020-12-31 14:43:33,610 [pool-2-thread-6] INFO  org.jsmart.zerocode.core.runner.StepNotificationHandler - 
+***Step PASSED - Scenario:Screening API- Get Screening by customerId test -> get_screening_details
+2020-12-31 14:43:33,611 [pool-2-thread-1] INFO  org.jsmart.zerocode.core.runner.StepNotificationHandler - 
+***Step PASSED - Scenario:Screening API- Get Screening by customerId test -> get_screening_details
+2020-12-31 14:43:33,612 [pool-2-thread-3] INFO  org.jsmart.zerocode.core.runner.StepNotificationHandler - 
+***Step PASSED - Scenario:Screening API- Get Screening by customerId test -> get_screening_details
+2020-12-31 14:43:33,610 [pool-2-thread-9] INFO  org.jsmart.zerocode.core.runner.StepNotificationHandler - 
+***Step PASSED - Scenario:Screening API- Get Screening by customerId test -> get_screening_details
+2020-12-31 14:43:33,614 [pool-2-thread-5] INFO  org.jsmart.zerocode.core.runner.StepNotificationHandler - 
+***Step PASSED - Scenario:Screening API- Get Screening by customerId test -> get_screening_details
+2020-12-31 14:43:33,614 [pool-2-thread-2] INFO  org.jsmart.zerocode.core.runner.StepNotificationHandler - 
+***Step PASSED - Scenario:Screening API- Get Screening by customerId test -> get_screening_details
+2020-12-31 14:43:33,613 [pool-2-thread-7] INFO  org.jsmart.zerocode.core.runner.StepNotificationHandler - 
+***Step PASSED - Scenario:Screening API- Get Screening by customerId test -> get_screening_details
+2020-12-31 14:43:33,611 [pool-2-thread-8] INFO  org.jsmart.zerocode.core.runner.StepNotificationHandler - 
+***Step PASSED - Scenario:Screening API- Get Screening by customerId test -> get_screening_details
+2020-12-31 14:43:33,616 [pool-2-thread-1] WARN  org.jsmart.zerocode.core.runner.ZeroCodeMultiStepsScenarioRunnerImpl - 
+--------- TEST-STEP-CORRELATION-ID: 7161425c-ff1d-4681-ab80-393234336710 ---------
+*requestTimeStamp:2020-12-31T14:43:31.076
+step:get_screening_details
+id:null
+url:https://httpbin.org/status/200
+method:GET
+request:
+{ } 
+--------- TEST-STEP-CORRELATION-ID: 7161425c-ff1d-4681-ab80-393234336710 ---------
+Response:
+{
+  "status" : 200,
+  "headers" : {
+    "Date" : [ "Thu, 31 Dec 2020 14:43:33 GMT" ],
+    "Access-Control-Allow-Origin" : [ "*" ],
+    "Content-Length" : [ "0" ],
+    "Server" : [ "gunicorn/19.9.0" ],
+    "Access-Control-Allow-Credentials" : [ "true" ],
+    "Content-Type" : [ "text/html; charset=utf-8" ],
+    "Connection" : [ "keep-alive" ]
+  }
+}
+*responseTimeStamp:2020-12-31T14:43:33.602 
+*Response delay:2526.0 milli-secs 
+---------> Expected Response: <----------
+{
+  "status" : 200
+} 
+ 
+-done-
+
+2020-12-31 14:43:33,618 [pool-2-thread-2] WARN  org.jsmart.zerocode.core.runner.ZeroCodeMultiStepsScenarioRunnerImpl - 
+--------- TEST-STEP-CORRELATION-ID: 0840af81-4271-4331-9f39-feb17bec843a ---------
+*requestTimeStamp:2020-12-31T14:43:31.074
+step:get_screening_details
+id:null
+url:https://httpbin.org/status/200
+method:GET
+request:
+{ } 
+--------- TEST-STEP-CORRELATION-ID: 0840af81-4271-4331-9f39-feb17bec843a ---------
+Response:
+{
+  "status" : 200,
+  "headers" : {
+    "Date" : [ "Thu, 31 Dec 2020 14:43:33 GMT" ],
+    "Access-Control-Allow-Origin" : [ "*" ],
+    "Content-Length" : [ "0" ],
+    "Server" : [ "gunicorn/19.9.0" ],
+    "Access-Control-Allow-Credentials" : [ "true" ],
+    "Content-Type" : [ "text/html; charset=utf-8" ],
+    "Connection" : [ "keep-alive" ]
+  }
+}
+*responseTimeStamp:2020-12-31T14:43:33.599 
+*Response delay:2525.0 milli-secs 
+---------> Expected Response: <----------
+{
+  "status" : 200
+} 
+ 
+-done-
+
+2020-12-31 14:43:33,618 [pool-2-thread-5] WARN  org.jsmart.zerocode.core.runner.ZeroCodeMultiStepsScenarioRunnerImpl - 
+--------- TEST-STEP-CORRELATION-ID: a1c6b5b3-bc9f-4f15-ab5a-f0409d8f6594 ---------
+*requestTimeStamp:2020-12-31T14:43:31.074
+step:get_screening_details
+id:null
+url:https://httpbin.org/status/200
+method:GET
+request:
+{ } 
+--------- TEST-STEP-CORRELATION-ID: a1c6b5b3-bc9f-4f15-ab5a-f0409d8f6594 ---------
+Response:
+{
+  "status" : 200,
+  "headers" : {
+    "Date" : [ "Thu, 31 Dec 2020 14:43:33 GMT" ],
+    "Access-Control-Allow-Origin" : [ "*" ],
+    "Content-Length" : [ "0" ],
+    "Server" : [ "gunicorn/19.9.0" ],
+    "Access-Control-Allow-Credentials" : [ "true" ],
+    "Content-Type" : [ "text/html; charset=utf-8" ],
+    "Connection" : [ "keep-alive" ]
+  }
+}
+*responseTimeStamp:2020-12-31T14:43:33.600 
+*Response delay:2526.0 milli-secs 
+---------> Expected Response: <----------
+{
+  "status" : 200
+} 
+ 
+-done-
+
+2020-12-31 14:43:33,619 [pool-2-thread-3] WARN  org.jsmart.zerocode.core.runner.ZeroCodeMultiStepsScenarioRunnerImpl - 
+--------- TEST-STEP-CORRELATION-ID: b92146fc-f126-4468-810f-cdbb15829edc ---------
+*requestTimeStamp:2020-12-31T14:43:31.076
+step:get_screening_details
+id:null
+url:https://httpbin.org/status/200
+method:GET
+request:
+{ } 
+--------- TEST-STEP-CORRELATION-ID: b92146fc-f126-4468-810f-cdbb15829edc ---------
+Response:
+{
+  "status" : 200,
+  "headers" : {
+    "Date" : [ "Thu, 31 Dec 2020 14:43:33 GMT" ],
+    "Access-Control-Allow-Origin" : [ "*" ],
+    "Content-Length" : [ "0" ],
+    "Server" : [ "gunicorn/19.9.0" ],
+    "Access-Control-Allow-Credentials" : [ "true" ],
+    "Content-Type" : [ "text/html; charset=utf-8" ],
+    "Connection" : [ "keep-alive" ]
+  }
+}
+*responseTimeStamp:2020-12-31T14:43:33.601 
+*Response delay:2525.0 milli-secs 
+---------> Expected Response: <----------
+{
+  "status" : 200
+} 
+ 
+-done-
+
+2020-12-31 14:43:33,620 [pool-2-thread-11] INFO  org.jsmart.zerocode.core.httpclient.ssl.SslTrustHttpClient - ###Used SSL Enabled Http Client for http/https/TLS connections
+2020-12-31 14:43:33,614 [pool-2-thread-4] INFO  org.jsmart.zerocode.core.runner.StepNotificationHandler - 
+***Step PASSED - Scenario:Screening API- Get Screening by customerId test -> get_screening_details
+2020-12-31 14:43:33,625 [pool-2-thread-4] WARN  org.jsmart.zerocode.core.runner.ZeroCodeMultiStepsScenarioRunnerImpl - 
+--------- TEST-STEP-CORRELATION-ID: a67f1be1-5879-4a34-b97a-7c045b84f85a ---------
+*requestTimeStamp:2020-12-31T14:43:31.075
+step:get_screening_details
+id:null
+url:https://httpbin.org/status/200
+method:GET
+request:
+{ } 
+--------- TEST-STEP-CORRELATION-ID: a67f1be1-5879-4a34-b97a-7c045b84f85a ---------
+Response:
+{
+  "status" : 200,
+  "headers" : {
+    "Date" : [ "Thu, 31 Dec 2020 14:43:33 GMT" ],
+    "Access-Control-Allow-Origin" : [ "*" ],
+    "Content-Length" : [ "0" ],
+    "Server" : [ "gunicorn/19.9.0" ],
+    "Access-Control-Allow-Credentials" : [ "true" ],
+    "Content-Type" : [ "text/html; charset=utf-8" ],
+    "Connection" : [ "keep-alive" ]
+  }
+}
+*responseTimeStamp:2020-12-31T14:43:33.599 
+*Response delay:2524.0 milli-secs 
+---------> Expected Response: <----------
+{
+  "status" : 200
+} 
+ 
+-done-
+
+2020-12-31 14:43:33,619 [pool-2-thread-9] WARN  org.jsmart.zerocode.core.runner.ZeroCodeMultiStepsScenarioRunnerImpl - 
+--------- TEST-STEP-CORRELATION-ID: 67913655-0e5f-4ab3-9d0f-e56725837b7f ---------
+*requestTimeStamp:2020-12-31T14:43:32.592
+step:get_screening_details
+id:null
+url:https://httpbin.org/status/200
+method:GET
+request:
+{ } 
+--------- TEST-STEP-CORRELATION-ID: 67913655-0e5f-4ab3-9d0f-e56725837b7f ---------
+Response:
+{
+  "status" : 200,
+  "headers" : {
+    "Date" : [ "Thu, 31 Dec 2020 14:43:33 GMT" ],
+    "Access-Control-Allow-Origin" : [ "*" ],
+    "Content-Length" : [ "0" ],
+    "Server" : [ "gunicorn/19.9.0" ],
+    "Access-Control-Allow-Credentials" : [ "true" ],
+    "Content-Type" : [ "text/html; charset=utf-8" ],
+    "Connection" : [ "keep-alive" ]
+  }
+}
+*responseTimeStamp:2020-12-31T14:43:33.594 
+*Response delay:1002.0 milli-secs 
+---------> Expected Response: <----------
+{
+  "status" : 200
+} 
+ 
+-done-
+
+2020-12-31 14:43:33,619 [pool-2-thread-6] WARN  org.jsmart.zerocode.core.runner.ZeroCodeMultiStepsScenarioRunnerImpl - 
+--------- TEST-STEP-CORRELATION-ID: aa007439-7be5-40e4-a99c-70144991d3b5 ---------
+*requestTimeStamp:2020-12-31T14:43:31.096
+step:get_screening_details
+id:null
+url:https://httpbin.org/status/200
+method:GET
+request:
+{ } 
+--------- TEST-STEP-CORRELATION-ID: aa007439-7be5-40e4-a99c-70144991d3b5 ---------
+Response:
+{
+  "status" : 200,
+  "headers" : {
+    "Date" : [ "Thu, 31 Dec 2020 14:43:33 GMT" ],
+    "Access-Control-Allow-Origin" : [ "*" ],
+    "Content-Length" : [ "0" ],
+    "Server" : [ "gunicorn/19.9.0" ],
+    "Access-Control-Allow-Credentials" : [ "true" ],
+    "Content-Type" : [ "text/html; charset=utf-8" ],
+    "Connection" : [ "keep-alive" ]
+  }
+}
+*responseTimeStamp:2020-12-31T14:43:33.594 
+*Response delay:2498.0 milli-secs 
+---------> Expected Response: <----------
+{
+  "status" : 200
+} 
+ 
+-done-
+
+2020-12-31 14:43:33,618 [pool-2-thread-7] WARN  org.jsmart.zerocode.core.runner.ZeroCodeMultiStepsScenarioRunnerImpl - 
+--------- TEST-STEP-CORRELATION-ID: 8a07fa33-3deb-434b-8656-2bea9cf189e8 ---------
+*requestTimeStamp:2020-12-31T14:43:31.694
+step:get_screening_details
+id:null
+url:https://httpbin.org/status/200
+method:GET
+request:
+{ } 
+--------- TEST-STEP-CORRELATION-ID: 8a07fa33-3deb-434b-8656-2bea9cf189e8 ---------
+Response:
+{
+  "status" : 200,
+  "headers" : {
+    "Date" : [ "Thu, 31 Dec 2020 14:43:33 GMT" ],
+    "Access-Control-Allow-Origin" : [ "*" ],
+    "Content-Length" : [ "0" ],
+    "Server" : [ "gunicorn/19.9.0" ],
+    "Access-Control-Allow-Credentials" : [ "true" ],
+    "Content-Type" : [ "text/html; charset=utf-8" ],
+    "Connection" : [ "keep-alive" ]
+  }
+}
+*responseTimeStamp:2020-12-31T14:43:33.600 
+*Response delay:1906.0 milli-secs 
+---------> Expected Response: <----------
+{
+  "status" : 200
+} 
+ 
+-done-
+
+2020-12-31 14:43:33,618 [pool-2-thread-8] WARN  org.jsmart.zerocode.core.runner.ZeroCodeMultiStepsScenarioRunnerImpl - 
+--------- TEST-STEP-CORRELATION-ID: 1cce4b82-41b3-4c7a-aa83-8009aef1e818 ---------
+*requestTimeStamp:2020-12-31T14:43:32.085
+step:get_screening_details
+id:null
+url:https://httpbin.org/status/200
+method:GET
+request:
+{ } 
+--------- TEST-STEP-CORRELATION-ID: 1cce4b82-41b3-4c7a-aa83-8009aef1e818 ---------
+Response:
+{
+  "status" : 200,
+  "headers" : {
+    "Date" : [ "Thu, 31 Dec 2020 14:43:33 GMT" ],
+    "Access-Control-Allow-Origin" : [ "*" ],
+    "Content-Length" : [ "0" ],
+    "Server" : [ "gunicorn/19.9.0" ],
+    "Access-Control-Allow-Credentials" : [ "true" ],
+    "Content-Type" : [ "text/html; charset=utf-8" ],
+    "Connection" : [ "keep-alive" ]
+  }
+}
+*responseTimeStamp:2020-12-31T14:43:33.601 
+*Response delay:1516.0 milli-secs 
+---------> Expected Response: <----------
+{
+  "status" : 200
+} 
+ 
+-done-
+
+2020-12-31 14:43:33,742 [pool-2-thread-10] INFO  org.jsmart.zerocode.core.engine.validators.ZeroCodeValidatorImpl - Comparing results via LENIENT matchers
+2020-12-31 14:43:33,744 [pool-2-thread-10] INFO  org.jsmart.zerocode.core.runner.StepNotificationHandler - 
+***Step PASSED - Scenario:Screening API- Get Screening by customerId test -> get_screening_details
+2020-12-31 14:43:33,745 [pool-2-thread-10] WARN  org.jsmart.zerocode.core.runner.ZeroCodeMultiStepsScenarioRunnerImpl - 
+--------- TEST-STEP-CORRELATION-ID: 58dca571-c329-4d19-8e74-24f26a153b64 ---------
+*requestTimeStamp:2020-12-31T14:43:33.144
+step:get_screening_details
+id:null
+url:https://httpbin.org/status/200
+method:GET
+request:
+{ } 
+--------- TEST-STEP-CORRELATION-ID: 58dca571-c329-4d19-8e74-24f26a153b64 ---------
+Response:
+{
+  "status" : 200,
+  "headers" : {
+    "Date" : [ "Thu, 31 Dec 2020 14:43:33 GMT" ],
+    "Access-Control-Allow-Origin" : [ "*" ],
+    "Content-Length" : [ "0" ],
+    "Server" : [ "gunicorn/19.9.0" ],
+    "Access-Control-Allow-Credentials" : [ "true" ],
+    "Content-Type" : [ "text/html; charset=utf-8" ],
+    "Connection" : [ "keep-alive" ]
+  }
+}
+*responseTimeStamp:2020-12-31T14:43:33.741 
+*Response delay:597.0 milli-secs 
+---------> Expected Response: <----------
+{
+  "status" : 200
+} 
+ 
+-done-
+
+2020-12-31 14:43:33,784 [pool-2-thread-9] INFO  org.jsmart.zerocode.core.runner.ZeroCodeUnitRunner - 
+**FINISHED executing all Steps for [Screening API- Get Screening by customerId test] **.
+Steps were:[get_screening_details]
+2020-12-31 14:43:33,785 [pool-2-thread-7] INFO  org.jsmart.zerocode.core.runner.ZeroCodeUnitRunner - 
+**FINISHED executing all Steps for [Screening API- Get Screening by customerId test] **.
+Steps were:[get_screening_details]
+2020-12-31 14:43:33,787 [pool-2-thread-8] INFO  org.jsmart.zerocode.core.runner.ZeroCodeUnitRunner - 
+**FINISHED executing all Steps for [Screening API- Get Screening by customerId test] **.
+Steps were:[get_screening_details]
+2020-12-31 14:43:33,788 [pool-2-thread-9] INFO  org.jsmart.zerocode.core.engine.listener.ZeroCodeTestReportListener - #ZeroCode: Test run completed for this runner. Generating test reports and charts. 
+* For more examples and help on automated Kafka data stream testing and Load testing visit https://zerocode.io
+2020-12-31 14:43:33,788 [pool-2-thread-8] INFO  org.jsmart.zerocode.core.engine.listener.ZeroCodeTestReportListener - #ZeroCode: Test run completed for this runner. Generating test reports and charts. 
+* For more examples and help on automated Kafka data stream testing and Load testing visit https://zerocode.io
+2020-12-31 14:43:33,788 [pool-2-thread-7] INFO  org.jsmart.zerocode.core.engine.listener.ZeroCodeTestReportListener - #ZeroCode: Test run completed for this runner. Generating test reports and charts. 
+* For more examples and help on automated Kafka data stream testing and Load testing visit https://zerocode.io
+2020-12-31 14:43:33,792 [pool-2-thread-3] INFO  org.jsmart.zerocode.core.runner.ZeroCodeUnitRunner - 
+**FINISHED executing all Steps for [Screening API- Get Screening by customerId test] **.
+Steps were:[get_screening_details]
+2020-12-31 14:43:33,792 [pool-2-thread-3] INFO  org.jsmart.zerocode.core.engine.listener.ZeroCodeTestReportListener - #ZeroCode: Test run completed for this runner. Generating test reports and charts. 
+* For more examples and help on automated Kafka data stream testing and Load testing visit https://zerocode.io
+2020-12-31 14:43:33,795 [pool-2-thread-6] INFO  org.jsmart.zerocode.core.runner.ZeroCodeUnitRunner - 
+**FINISHED executing all Steps for [Screening API- Get Screening by customerId test] **.
+Steps were:[get_screening_details]
+2020-12-31 14:43:33,796 [pool-2-thread-5] INFO  org.jsmart.zerocode.core.runner.ZeroCodeUnitRunner - 
+**FINISHED executing all Steps for [Screening API- Get Screening by customerId test] **.
+Steps were:[get_screening_details]
+2020-12-31 14:43:33,797 [pool-2-thread-2] INFO  org.jsmart.zerocode.core.runner.ZeroCodeUnitRunner - 
+**FINISHED executing all Steps for [Screening API- Get Screening by customerId test] **.
+Steps were:[get_screening_details]
+2020-12-31 14:43:33,797 [pool-2-thread-5] INFO  org.jsmart.zerocode.core.engine.listener.ZeroCodeTestReportListener - #ZeroCode: Test run completed for this runner. Generating test reports and charts. 
+* For more examples and help on automated Kafka data stream testing and Load testing visit https://zerocode.io
+2020-12-31 14:43:33,797 [pool-2-thread-2] INFO  org.jsmart.zerocode.core.engine.listener.ZeroCodeTestReportListener - #ZeroCode: Test run completed for this runner. Generating test reports and charts. 
+* For more examples and help on automated Kafka data stream testing and Load testing visit https://zerocode.io
+2020-12-31 14:43:33,796 [pool-2-thread-6] INFO  org.jsmart.zerocode.core.engine.listener.ZeroCodeTestReportListener - #ZeroCode: Test run completed for this runner. Generating test reports and charts. 
+* For more examples and help on automated Kafka data stream testing and Load testing visit https://zerocode.io
+2020-12-31 14:43:33,799 [pool-2-thread-1] INFO  org.jsmart.zerocode.core.runner.ZeroCodeUnitRunner - 
+**FINISHED executing all Steps for [Screening API- Get Screening by customerId test] **.
+Steps were:[get_screening_details]
+2020-12-31 14:43:33,800 [pool-2-thread-1] INFO  org.jsmart.zerocode.core.engine.listener.ZeroCodeTestReportListener - #ZeroCode: Test run completed for this runner. Generating test reports and charts. 
+* For more examples and help on automated Kafka data stream testing and Load testing visit https://zerocode.io
+2020-12-31 14:43:33,802 [pool-2-thread-4] INFO  org.jsmart.zerocode.core.runner.ZeroCodeUnitRunner - 
+**FINISHED executing all Steps for [Screening API- Get Screening by customerId test] **.
+Steps were:[get_screening_details]
+2020-12-31 14:43:33,804 [pool-2-thread-4] INFO  org.jsmart.zerocode.core.engine.listener.ZeroCodeTestReportListener - #ZeroCode: Test run completed for this runner. Generating test reports and charts. 
+* For more examples and help on automated Kafka data stream testing and Load testing visit https://zerocode.io
+2020-12-31 14:43:33,872 [pool-2-thread-10] INFO  org.jsmart.zerocode.core.runner.ZeroCodeUnitRunner - 
+**FINISHED executing all Steps for [Screening API- Get Screening by customerId test] **.
+Steps were:[get_screening_details]
+2020-12-31 14:43:33,873 [pool-2-thread-10] INFO  org.jsmart.zerocode.core.engine.listener.ZeroCodeTestReportListener - #ZeroCode: Test run completed for this runner. Generating test reports and charts. 
+* For more examples and help on automated Kafka data stream testing and Load testing visit https://zerocode.io
+2020-12-31 14:43:34,007 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - main Executor - *Start... Time = 2020-12-31T14:43:34.007
+2020-12-31 14:43:34,010 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - main Executor - *Finished Time = 2020-12-31T14:43:34.010
+2020-12-31 14:43:34,011 [pool-2-thread-12] INFO  org.jsmart.zerocode.core.runner.parallel.LoadProcessor - pool-2-thread-12 Parallel Junit test- *Start. Time = 2020-12-31T14:43:34.011
+2020-12-31 14:43:34,013 [pool-2-thread-12] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:43:34,056 [pool-2-thread-12] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:43:34,100 [pool-2-thread-12] INFO  org.jsmart.zerocode.core.utils.RunnerUtils - ### testClass : class com.swappy.loadtest.tests.get.GetScreeningServiceTest
+2020-12-31 14:43:34,116 [pool-2-thread-12] INFO  org.jsmart.zerocode.core.runner.ZeroCodeUnitRunner - System property zerocode.junit=null
+2020-12-31 14:43:34,172 [pool-2-thread-11] INFO  org.jsmart.zerocode.core.engine.validators.ZeroCodeValidatorImpl - Comparing results via LENIENT matchers
+2020-12-31 14:43:34,173 [pool-2-thread-11] INFO  org.jsmart.zerocode.core.runner.StepNotificationHandler - 
+***Step PASSED - Scenario:Screening API- Get Screening by customerId test -> get_screening_details
+2020-12-31 14:43:34,174 [pool-2-thread-11] WARN  org.jsmart.zerocode.core.runner.ZeroCodeMultiStepsScenarioRunnerImpl - 
+--------- TEST-STEP-CORRELATION-ID: 76c2db17-cb31-4e30-adce-a74fa112f444 ---------
+*requestTimeStamp:2020-12-31T14:43:33.617
+step:get_screening_details
+id:null
+url:https://httpbin.org/status/200
+method:GET
+request:
+{ } 
+--------- TEST-STEP-CORRELATION-ID: 76c2db17-cb31-4e30-adce-a74fa112f444 ---------
+Response:
+{
+  "status" : 200,
+  "headers" : {
+    "Date" : [ "Thu, 31 Dec 2020 14:43:34 GMT" ],
+    "Access-Control-Allow-Origin" : [ "*" ],
+    "Content-Length" : [ "0" ],
+    "Server" : [ "gunicorn/19.9.0" ],
+    "Access-Control-Allow-Credentials" : [ "true" ],
+    "Content-Type" : [ "text/html; charset=utf-8" ],
+    "Connection" : [ "keep-alive" ]
+  }
+}
+*responseTimeStamp:2020-12-31T14:43:34.172 
+*Response delay:555.0 milli-secs 
+---------> Expected Response: <----------
+{
+  "status" : 200
+} 
+ 
+-done-
+
+2020-12-31 14:43:34,202 [pool-2-thread-12] INFO  org.jsmart.zerocode.core.runner.ZeroCodeMultiStepsScenarioRunnerImpl - 
+-------------------------- BDD: Scenario:Screening API- Get Screening by customerId test -------------------------
+
+2020-12-31 14:43:34,202 [pool-2-thread-12] INFO  org.jsmart.zerocode.core.runner.ZeroCodeMultiStepsScenarioRunnerImpl - 
+-------------------------------------------------------------------------
+     Executing Scenario Count No. or parameter No. or Row No. | 0 | 
+-------------------------------------------------------------------------
+2020-12-31 14:43:34,211 [pool-2-thread-3] INFO  org.jsmart.zerocode.core.domain.builders.ExtentReportsFactory - Where were the tests fired? Ans: OS:Mac OS X, Architecture:x86_64, Java:1.8.0_141, Vendor:Oracle Corporation
+2020-12-31 14:43:34,212 [pool-2-thread-6] INFO  org.jsmart.zerocode.core.domain.builders.ExtentReportsFactory - Where were the tests fired? Ans: OS:Mac OS X, Architecture:x86_64, Java:1.8.0_141, Vendor:Oracle Corporation
+2020-12-31 14:43:34,211 [pool-2-thread-2] INFO  org.jsmart.zerocode.core.domain.builders.ExtentReportsFactory - Where were the tests fired? Ans: OS:Mac OS X, Architecture:x86_64, Java:1.8.0_141, Vendor:Oracle Corporation
+2020-12-31 14:43:34,214 [pool-2-thread-12] INFO  org.jsmart.zerocode.core.httpclient.ssl.SslTrustHttpClient - ###Used SSL Enabled Http Client for http/https/TLS connections
+2020-12-31 14:43:34,215 [pool-2-thread-8] INFO  org.jsmart.zerocode.core.domain.builders.ExtentReportsFactory - Where were the tests fired? Ans: OS:Mac OS X, Architecture:x86_64, Java:1.8.0_141, Vendor:Oracle Corporation
+2020-12-31 14:43:34,216 [pool-2-thread-9] INFO  org.jsmart.zerocode.core.domain.builders.ExtentReportsFactory - Where were the tests fired? Ans: OS:Mac OS X, Architecture:x86_64, Java:1.8.0_141, Vendor:Oracle Corporation
+2020-12-31 14:43:34,215 [pool-2-thread-5] INFO  org.jsmart.zerocode.core.domain.builders.ExtentReportsFactory - Where were the tests fired? Ans: OS:Mac OS X, Architecture:x86_64, Java:1.8.0_141, Vendor:Oracle Corporation
+2020-12-31 14:43:34,219 [pool-2-thread-7] INFO  org.jsmart.zerocode.core.domain.builders.ExtentReportsFactory - Where were the tests fired? Ans: OS:Mac OS X, Architecture:x86_64, Java:1.8.0_141, Vendor:Oracle Corporation
+2020-12-31 14:43:34,220 [pool-2-thread-4] INFO  org.jsmart.zerocode.core.domain.builders.ExtentReportsFactory - Where were the tests fired? Ans: OS:Mac OS X, Architecture:x86_64, Java:1.8.0_141, Vendor:Oracle Corporation
+2020-12-31 14:43:34,220 [pool-2-thread-1] INFO  org.jsmart.zerocode.core.domain.builders.ExtentReportsFactory - Where were the tests fired? Ans: OS:Mac OS X, Architecture:x86_64, Java:1.8.0_141, Vendor:Oracle Corporation
+2020-12-31 14:43:34,221 [pool-2-thread-10] INFO  org.jsmart.zerocode.core.domain.builders.ExtentReportsFactory - Where were the tests fired? Ans: OS:Mac OS X, Architecture:x86_64, Java:1.8.0_141, Vendor:Oracle Corporation
+2020-12-31 14:43:34,284 [pool-2-thread-11] INFO  org.jsmart.zerocode.core.runner.ZeroCodeUnitRunner - 
+**FINISHED executing all Steps for [Screening API- Get Screening by customerId test] **.
+Steps were:[get_screening_details]
+2020-12-31 14:43:34,285 [pool-2-thread-11] INFO  org.jsmart.zerocode.core.engine.listener.ZeroCodeTestReportListener - #ZeroCode: Test run completed for this runner. Generating test reports and charts. 
+* For more examples and help on automated Kafka data stream testing and Load testing visit https://zerocode.io
+2020-12-31 14:43:34,345 [pool-2-thread-11] INFO  org.jsmart.zerocode.core.domain.builders.ExtentReportsFactory - Where were the tests fired? Ans: OS:Mac OS X, Architecture:x86_64, Java:1.8.0_141, Vendor:Oracle Corporation
+2020-12-31 14:43:35,239 [pool-2-thread-12] INFO  org.jsmart.zerocode.core.engine.validators.ZeroCodeValidatorImpl - Comparing results via LENIENT matchers
+2020-12-31 14:43:35,241 [pool-2-thread-12] INFO  org.jsmart.zerocode.core.runner.StepNotificationHandler - 
+***Step PASSED - Scenario:Screening API- Get Screening by customerId test -> get_screening_details
+2020-12-31 14:43:35,241 [pool-2-thread-12] WARN  org.jsmart.zerocode.core.runner.ZeroCodeMultiStepsScenarioRunnerImpl - 
+--------- TEST-STEP-CORRELATION-ID: 030aa323-8ca5-40c8-ac26-e0bb70be66f0 ---------
+*requestTimeStamp:2020-12-31T14:43:34.213
+step:get_screening_details
+id:null
+url:https://httpbin.org/status/200
+method:GET
+request:
+{ } 
+--------- TEST-STEP-CORRELATION-ID: 030aa323-8ca5-40c8-ac26-e0bb70be66f0 ---------
+Response:
+{
+  "status" : 200,
+  "headers" : {
+    "Date" : [ "Thu, 31 Dec 2020 14:43:35 GMT" ],
+    "Access-Control-Allow-Origin" : [ "*" ],
+    "Content-Length" : [ "0" ],
+    "Server" : [ "gunicorn/19.9.0" ],
+    "Access-Control-Allow-Credentials" : [ "true" ],
+    "Content-Type" : [ "text/html; charset=utf-8" ],
+    "Connection" : [ "keep-alive" ]
+  }
+}
+*responseTimeStamp:2020-12-31T14:43:35.239 
+*Response delay:1026.0 milli-secs 
+---------> Expected Response: <----------
+{
+  "status" : 200
+} 
+ 
+-done-
+
+2020-12-31 14:43:35,353 [pool-2-thread-12] INFO  org.jsmart.zerocode.core.runner.ZeroCodeUnitRunner - 
+**FINISHED executing all Steps for [Screening API- Get Screening by customerId test] **.
+Steps were:[get_screening_details]
+2020-12-31 14:43:35,353 [pool-2-thread-12] INFO  org.jsmart.zerocode.core.engine.listener.ZeroCodeTestReportListener - #ZeroCode: Test run completed for this runner. Generating test reports and charts. 
+* For more examples and help on automated Kafka data stream testing and Load testing visit https://zerocode.io
+2020-12-31 14:43:35,374 [pool-2-thread-12] INFO  org.jsmart.zerocode.core.domain.builders.ExtentReportsFactory - Where were the tests fired? Ans: OS:Mac OS X, Architecture:x86_64, Java:1.8.0_141, Vendor:Oracle Corporation
+2020-12-31 14:43:39,473 [pool-2-thread-12] INFO  org.jsmart.zerocode.core.runner.parallel.LoadProcessor - pool-2-thread-12 Parallel Junit test- *  End. Time = 2020-12-31T14:43:39.473
+2020-12-31 14:43:47,127 [pool-2-thread-10] INFO  org.jsmart.zerocode.core.runner.parallel.LoadProcessor - pool-2-thread-10 Parallel Junit test- *  End. Time = 2020-12-31T14:43:47.127
+2020-12-31 14:43:47,221 [pool-2-thread-9] INFO  org.jsmart.zerocode.core.runner.parallel.LoadProcessor - pool-2-thread-9 Parallel Junit test- *  End. Time = 2020-12-31T14:43:47.221
+2020-12-31 14:43:47,525 [pool-2-thread-2] INFO  org.jsmart.zerocode.core.runner.parallel.LoadProcessor - pool-2-thread-2 Parallel Junit test- *  End. Time = 2020-12-31T14:43:47.525
+2020-12-31 14:43:47,909 [pool-2-thread-6] INFO  org.jsmart.zerocode.core.runner.parallel.LoadProcessor - pool-2-thread-6 Parallel Junit test- *  End. Time = 2020-12-31T14:43:47.909
+2020-12-31 14:43:48,555 [pool-2-thread-11] INFO  org.jsmart.zerocode.core.runner.parallel.LoadProcessor - pool-2-thread-11 Parallel Junit test- *  End. Time = 2020-12-31T14:43:48.555
+2020-12-31 14:43:48,776 [pool-2-thread-8] INFO  org.jsmart.zerocode.core.runner.parallel.LoadProcessor - pool-2-thread-8 Parallel Junit test- *  End. Time = 2020-12-31T14:43:48.776
+2020-12-31 14:43:49,154 [pool-2-thread-1] INFO  org.jsmart.zerocode.core.runner.parallel.LoadProcessor - pool-2-thread-1 Parallel Junit test- *  End. Time = 2020-12-31T14:43:49.154
+2020-12-31 14:43:49,343 [pool-2-thread-4] INFO  org.jsmart.zerocode.core.runner.parallel.LoadProcessor - pool-2-thread-4 Parallel Junit test- *  End. Time = 2020-12-31T14:43:49.343
+2020-12-31 14:43:49,943 [pool-2-thread-3] INFO  org.jsmart.zerocode.core.runner.parallel.LoadProcessor - pool-2-thread-3 Parallel Junit test- *  End. Time = 2020-12-31T14:43:49.943
+2020-12-31 14:43:50,179 [pool-2-thread-7] INFO  org.jsmart.zerocode.core.runner.parallel.LoadProcessor - pool-2-thread-7 Parallel Junit test- *  End. Time = 2020-12-31T14:43:50.179
+2020-12-31 14:43:50,324 [pool-2-thread-5] INFO  org.jsmart.zerocode.core.runner.parallel.LoadProcessor - pool-2-thread-5 Parallel Junit test- *  End. Time = 2020-12-31T14:43:50.323
+2020-12-31 14:43:50,324 [main] INFO  org.jsmart.zerocode.parallel.ExecutorServiceRunner - **Finished executing all threads**
+2020-12-31 14:43:50,324 [main] WARN  org.jsmart.zerocode.core.runner.parallel.LoadProcessor - 
+-----------------------------------------------------------------------------------------------------------
+==>> Completed this load-run!
+==>> Number of load tests ran : 12
+==>> View the detailed performance results in the 'target/zerocode-junit-granular-report.csv' folder.
+-----------------------------------------------------------------------------------------------------------
+
+

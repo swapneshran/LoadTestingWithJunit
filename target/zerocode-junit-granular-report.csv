@@ -1,0 +1,16 @@
+scenarioName,scenarioLoop,stepName,stepLoop,correlationId,requestTimeStamp,responseDelayMilliSec,responseTimeStamp,result,method
+"Screening API- Get Screening by customerId test",0,get_screening_details,,"3b62cc04-f94d-419a-86e6-324a62ab4a36",2020-12-31T14:42:14.943,629.0,2020-12-31T14:42:15.572,PASSED,GET
+"Screening API- Get Screening by customerId test",0,get_screening_details,,"a67f1be1-5879-4a34-b97a-7c045b84f85a",2020-12-31T14:43:31.075,2524.0,2020-12-31T14:43:33.599,PASSED,GET
+"Screening API- Get Screening by customerId test",0,get_screening_details,,"1cce4b82-41b3-4c7a-aa83-8009aef1e818",2020-12-31T14:43:32.085,1516.0,2020-12-31T14:43:33.601,PASSED,GET
+"Screening API- Get Screening by customerId test",0,get_screening_details,,"030aa323-8ca5-40c8-ac26-e0bb70be66f0",2020-12-31T14:43:34.213,1026.0,2020-12-31T14:43:35.239,PASSED,GET
+"Screening API- Get Screening by customerId test",0,get_screening_details,,"58dca571-c329-4d19-8e74-24f26a153b64",2020-12-31T14:43:33.144,597.0,2020-12-31T14:43:33.741,PASSED,GET
+"Screening API- Get Screening by customerId test",0,get_screening_details,,"b92146fc-f126-4468-810f-cdbb15829edc",2020-12-31T14:43:31.076,2525.0,2020-12-31T14:43:33.601,PASSED,GET
+"Screening API- Get Screening by customerId test",0,get_screening_details,,"aa007439-7be5-40e4-a99c-70144991d3b5",2020-12-31T14:43:31.096,2498.0,2020-12-31T14:43:33.594,PASSED,GET
+"Screening API- Get Screening by customerId test",0,get_screening_details,,"0840af81-4271-4331-9f39-feb17bec843a",2020-12-31T14:43:31.074,2525.0,2020-12-31T14:43:33.599,PASSED,GET
+"Screening API- Get Screening by customerId test",0,get_screening_details,,"a1c6b5b3-bc9f-4f15-ab5a-f0409d8f6594",2020-12-31T14:43:31.074,2526.0,2020-12-31T14:43:33.600,PASSED,GET
+"Screening API- Get Screening by customerId test",0,get_screening_details,,"12b0b450-756e-48da-8a55-7ee146a5e3a4",2020-12-31T14:42:13.288,1706.0,2020-12-31T14:42:14.994,PASSED,GET
+"Screening API- Get Screening by customerId test",0,get_screening_details,,"7161425c-ff1d-4681-ab80-393234336710",2020-12-31T14:43:31.076,2526.0,2020-12-31T14:43:33.602,PASSED,GET
+"Screening API- Get Screening by customerId test",0,get_screening_details,,"76c2db17-cb31-4e30-adce-a74fa112f444",2020-12-31T14:43:33.617,555.0,2020-12-31T14:43:34.172,PASSED,GET
+"Screening API- Get Screening by customerId test",0,get_screening_details,,"8a07fa33-3deb-434b-8656-2bea9cf189e8",2020-12-31T14:43:31.694,1906.0,2020-12-31T14:43:33.600,PASSED,GET
+"Screening API- Get Screening by customerId test",0,get_screening_details,,"120b1d22-2f99-4c2a-80f1-399470faec71",2020-12-31T14:42:13.288,1705.0,2020-12-31T14:42:14.993,PASSED,GET
+"Screening API- Get Screening by customerId test",0,get_screening_details,,"67913655-0e5f-4ab3-9d0f-e56725837b7f",2020-12-31T14:43:32.592,1002.0,2020-12-31T14:43:33.594,PASSED,GET
